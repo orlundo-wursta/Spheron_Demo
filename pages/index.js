@@ -7,6 +7,7 @@ export default function Home() {
     <>
       <h1>Hello Web3</h1>
       <p>Easy Pr</p>
+      <p>new pr</p>
     </>
   );
 }

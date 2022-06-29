@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <>
       <h1>Hello Web3</h1>
+      <p>Easy Pr</p>
     </>
   );
 }
